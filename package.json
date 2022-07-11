@@ -1,7 +1,7 @@
 {
-  "name": "axel",
+  "name": "10A Moderator",
   "version": "1.0.0",
-  "description": "A Moderationbot for your Discord Server",
+  "description": "A Moderationbot for 10A Discord Server",
   "main": "index.js",
   "dependencies": {
     "@discordjs/opus": "^0.5.0",

@@ -1,4 +1,4 @@
-exports.TOKEN = "OTk1OTQ1MDQwNTc4ODcxMzg4.GicqD4.FaDZXRFcWrcsbsIS7U_g10IP-yyhwarGNJB7z4";
+exports.TOKEN = "OTk1OTQ1MDQwNTc4ODcxMzg4.GdZQr1.vZkEEKWRYMa7exe00CivWg30nGheNs4GKFZBG0";
 
 exports.PREFIX = '10A';
 
